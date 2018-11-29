@@ -1,0 +1,658 @@
+[2018-10-08 15:21:18 *32700.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Cannot declare class App\HttpController\User, because the name is already in use in /usr/htdocs/linux/easyswoole/App/HttpController/Admin/User.php on line 13.
+[2018-10-08 15:21:18 $32688.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-10-08 15:28:29 *632.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Declaration of App\HttpController\Admin\User::actionNotFound($action) must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::actionNotFound($action): void in /usr/htdocs/linux/easyswoole/App/HttpController/Admin/User.php on line 7.
+[2018-10-08 15:28:29 $620.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-10-08 15:29:38 *714.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Declaration of App\HttpController\Admin\User::actionNotFound($action) must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::actionNotFound($action): void in /usr/htdocs/linux/easyswoole/App/HttpController/Admin/User.php on line 7.
+[2018-10-08 15:29:38 $702.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-10-08 15:32:08 *855.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Declaration of App\HttpController\Admin\User::actionNotFound($action) must be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::actionNotFound($action): void in /usr/htdocs/linux/easyswoole/App/HttpController/Admin/User.php on line 7.
+[2018-10-08 15:32:08 $843.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-10-08 16:03:38 #7096.1]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=0, signal=10.
+[2018-10-08 16:06:02 #7096.1]	NOTICE	Server is shutdown now.
+[2018-10-08 16:06:02 #7096.1]	ERROR	swFactoryProcess_shutdown(:57): kill(7099) failed. Error: No such process[3].
+[2018-10-08 16:06:02 #7096.1]	ERROR	swFactoryProcess_shutdown(:62): waitpid(7099) failed. Error: No child processes[10].
+[2018-10-08 16:06:02 #7291.1]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=0, signal=10.
+[2018-10-08 16:10:49 #7779.1]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=0, signal=10.
+[2018-10-08 16:13:09 #7779.1]	NOTICE	Server is shutdown now.
+[2018-10-08 16:13:09 #7779.1]	ERROR	swFactoryProcess_shutdown(:57): kill(7782) failed. Error: No such process[3].
+[2018-10-08 16:13:09 #7779.1]	ERROR	swFactoryProcess_shutdown(:62): waitpid(7782) failed. Error: No child processes[10].
+[2018-10-08 16:13:09 #8189.1]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=0, signal=10.
+[2018-10-08 16:14:41 #8189.1]	NOTICE	Server is shutdown now.
+[2018-10-08 16:14:41 #8189.1]	ERROR	swFactoryProcess_shutdown(:57): kill(8192) failed. Error: No such process[3].
+[2018-10-08 16:14:41 #8189.1]	ERROR	swFactoryProcess_shutdown(:62): waitpid(8192) failed. Error: No child processes[10].
+[2018-10-08 16:15:09 #8341.1]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=0, signal=10.
+[2018-10-08 16:16:37 #8341.1]	NOTICE	Server is shutdown now.
+[2018-10-08 16:16:37 #8341.1]	ERROR	swFactoryProcess_shutdown(:57): kill(8344) failed. Error: No such process[3].
+[2018-10-08 16:16:37 #8341.1]	ERROR	swFactoryProcess_shutdown(:62): waitpid(8344) failed. Error: No child processes[10].
+[2018-10-08 16:20:32 *8475.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-08 16:20:32 *8474.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-08 16:20:32 *8473.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-08 16:20:32 *8472.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-08 16:20:32 *8471.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-08 16:20:32 *8470.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-08 16:20:32 *8469.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-08 16:20:32 *8468.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-08 16:20:32 $8458.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-10-08 16:20:39 #8889.1]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=0, signal=10.
+[2018-10-08 16:20:54 #8889.1]	NOTICE	Server is shutdown now.
+[2018-10-08 16:20:54 #8889.1]	ERROR	swFactoryProcess_shutdown(:57): kill(8892) failed. Error: No such process[3].
+[2018-10-08 16:20:54 #8889.1]	ERROR	swFactoryProcess_shutdown(:62): waitpid(8892) failed. Error: No child processes[10].
+[2018-10-08 16:21:14 #8982.1]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=0, signal=10.
+[2018-10-08 16:27:59 #8982.1]	NOTICE	Server is shutdown now.
+[2018-10-08 16:27:59 #8982.1]	ERROR	swFactoryProcess_shutdown(:57): kill(8985) failed. Error: No such process[3].
+[2018-10-08 16:27:59 #8982.1]	ERROR	swFactoryProcess_shutdown(:62): waitpid(8985) failed. Error: No child processes[10].
+[2018-10-09 18:12:32 *21553.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-09 18:12:32 *21552.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-09 18:12:32 *21551.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-09 18:12:32 *21550.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-09 18:12:32 *21549.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-09 18:12:32 *21548.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-09 18:12:32 *21547.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-09 18:12:32 *21546.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-09 18:12:32 $21536.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-10-09 18:12:32 #21535.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-10 11:00:54 #21535.1]	NOTICE	Server is shutdown now.
+[2018-10-10 11:01:57 $19724.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:14:23 $19724.0]	NOTICE	Server is reloading now.
+Error at file[/usr/htdocs/linux/easyswoole/App/HttpController/Admin/User.php] line[7] message:[Declaration of App\HttpController\Admin\User::onRequest($action, $request): ?bool should be compatible with EasySwoole\Core\Http\AbstractInterface\Controller::onRequest($action): ?bool]
+[2018-10-10 11:16:02 $19724.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:16:30 $19724.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:20:02 $19724.0]	NOTICE	Server is reloading now.
+string(1) "1"
+[2018-10-10 11:20:23 $19724.0]	NOTICE	Server is reloading now.
+string(1) "1"
+string(1) "1"
+[2018-10-10 11:22:10 #19723.1]	NOTICE	Server is shutdown now.
+[2018-10-10 11:23:05 #21068.1]	NOTICE	Server is shutdown now.
+[2018-10-10 11:23:34 #21120.1]	NOTICE	Server is shutdown now.
+[2018-10-10 11:23:41 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:23:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:14 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:14 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:15 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:15 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:15 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:15 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:15 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:30 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:31 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:45 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:45 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:46 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:46 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:46 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:46 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:46 $21167.0]	NOTICE	Server is reloading now.
+Error at file[/usr/htdocs/linux/easyswoole/App/HttpController/Admin/User.php] line[39] message:[json_decode() expects parameter 1 to be string, array given]
+[2018-10-10 11:24:48 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:49 $21167.0]	NOTICE	Server is reloading now.
+Error at file[/usr/htdocs/linux/easyswoole/App/HttpController/Admin/User.php] line[39] message:[json_decode() expects parameter 1 to be string, array given]
+[2018-10-10 11:24:52 $21167.0]	NOTICE	Server is reloading now.
+Error at file[/usr/htdocs/linux/easyswoole/App/HttpController/Admin/User.php] line[39] message:[json_decode() expects parameter 1 to be string, array given]
+[2018-10-10 11:24:53 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:53 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:24:53 $21167.0]	NOTICE	Server is reloading now.
+Error at file[/usr/htdocs/linux/easyswoole/App/HttpController/Admin/User.php] line[39] message:[json_decode() expects parameter 1 to be string, array given]
+[2018-10-10 11:25:05 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:25:06 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:25:16 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:25:16 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:25:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:25:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:25:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:25:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:25:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:25:19 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:25:20 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:30:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:30:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:30:13 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:30:13 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:30:13 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:30:13 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:20 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:20 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:21 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:21 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:21 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:21 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:21 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:23 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:23 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:24 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:24 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:24 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:24 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:25 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:34 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:35 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:35 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:36 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:36 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:36 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:36 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:46 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:46 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:47 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:47 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:47 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:47 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:47 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:54 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:54 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:55 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:55 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:55 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:55 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:32:55 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:02 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:02 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:08 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:08 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:09 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:09 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:09 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:09 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:09 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:13 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:13 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:13 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:13 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:13 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:27 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:27 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:29 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:32 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:32 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:33 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:33 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:33 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:33 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:33 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:41 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:41 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:42 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:58 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:58 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:33:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:04 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:04 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:04 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:04 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:04 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:11 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:11 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:16 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:16 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:31 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:31 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:32 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:32 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:32 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:32 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:32 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:45 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:45 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:46 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:46 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:46 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:46 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:46 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:52 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:52 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:53 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:53 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:53 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:53 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:34:53 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:02 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:02 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:19 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:19 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:20 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:20 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:20 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:20 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:20 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:27 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:27 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:35 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:35 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:36 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:36 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:36 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:36 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:36 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:57 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:57 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:58 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:58 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:58 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:58 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:35:58 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:13 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:13 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:14 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:14 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:15 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:15 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:15 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:52 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:52 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:53 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:53 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:53 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:53 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:36:53 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:06 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:06 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:07 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:07 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:07 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:07 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:07 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:14 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:14 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:15 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:15 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:15 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:15 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:37:15 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:03 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:04 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:04 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:04 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:04 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:04 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:11 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:11 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:16 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:16 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:21 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:21 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:22 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:34 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:34 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:35 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:35 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:35 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:35 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:35 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:43 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:44 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:44 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:44 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:44 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:44 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:50 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:51 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:51 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:52 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:52 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:52 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:38:52 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:06 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:06 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:07 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:07 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:07 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:07 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:07 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:27 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:27 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:28 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:38 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:39 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:39 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:40 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:40 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:40 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:40 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:58 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:58 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:39:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:40:37 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:40:37 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:40:38 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:40:38 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:40:38 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:40:38 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:40:39 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:42:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:42:18 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:42:18 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:42:18 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:42:54 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:42:55 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:44:11 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:44:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:44:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:44:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:45:16 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:45:17 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:46:04 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:46:04 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:46:05 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:46:05 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:46:05 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:46:05 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:46:05 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:46:11 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:46:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:46:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:46:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:11 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:11 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:11 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:11 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:11 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:11 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:12 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:58 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:58 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:52:59 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:00 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:01 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:02 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:02 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:02 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:02 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:02 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:02 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:02 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 11:53:02 $21167.0]	NOTICE	Server is reloading now.
+[2018-10-10 13:21:45 #21164.1]	NOTICE	Server is shutdown now.
+[2018-10-10 13:21:46 #3395.1]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=0, signal=10.
+[2018-10-10 14:02:15 #3395.1]	NOTICE	Server is shutdown now.
+[2018-10-10 14:02:15 #3395.1]	ERROR	swFactoryProcess_shutdown(:57): kill(3398) failed. Error: No such process[3].
+[2018-10-10 14:02:15 #3395.1]	ERROR	swFactoryProcess_shutdown(:62): waitpid(3398) failed. Error: No child processes[10].
+[2018-10-10 14:02:23 #6027.1]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=0, signal=10.
+[2018-10-10 14:03:20 #6027.1]	NOTICE	Server is shutdown now.
+[2018-10-10 14:03:20 #6027.1]	ERROR	swFactoryProcess_shutdown(:57): kill(6030) failed. Error: No such process[3].
+[2018-10-10 14:03:20 #6027.1]	ERROR	swFactoryProcess_shutdown(:62): waitpid(6030) failed. Error: No child processes[10].
+[2018-10-10 14:04:17 #6224.1]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=0, signal=10.
+[2018-10-10 14:04:40 #6224.1]	NOTICE	Server is shutdown now.
+[2018-10-10 14:04:40 #6224.1]	ERROR	swFactoryProcess_shutdown(:57): kill(6227) failed. Error: No such process[3].
+[2018-10-10 14:04:40 #6224.1]	ERROR	swFactoryProcess_shutdown(:62): waitpid(6227) failed. Error: No child processes[10].
+[2018-10-10 14:05:37 #6333.1]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=0, signal=10.
+[2018-10-10 14:06:22 #6333.1]	NOTICE	Server is shutdown now.
+[2018-10-10 14:06:22 #6333.1]	ERROR	swFactoryProcess_shutdown(:57): kill(6336) failed. Error: No such process[3].
+[2018-10-10 14:06:22 #6333.1]	ERROR	swFactoryProcess_shutdown(:62): waitpid(6336) failed. Error: No child processes[10].
+[2018-10-12 14:24:30 #5491.1]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=0, signal=10.
+[2018-10-12 14:27:11 #5491.1]	NOTICE	Server is shutdown now.
+[2018-10-12 14:27:11 #5491.1]	ERROR	swFactoryProcess_shutdown(:57): kill(5494) failed. Error: No such process[3].
+[2018-10-12 14:27:11 #5491.1]	ERROR	swFactoryProcess_shutdown(:62): waitpid(5494) failed. Error: No child processes[10].
+[2018-10-12 14:28:04 ^5800.10]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=1] does not exists.
+[2018-10-19 17:47:29 ^1608.11]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=6] does not exists.
+[2018-10-19 17:47:30 ^1609.12]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=6] does not exists.
+[2018-10-19 17:47:41 ^1611.14]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=7] does not exists.
+[2018-10-19 17:47:41 ^1612.15]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=7] does not exists.
+[2018-10-19 17:47:41 ^1605.8]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=7] does not exists.
+[2018-10-19 17:47:42 ^1606.9]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=7] does not exists.
+[2018-10-19 17:47:42 ^1607.10]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=7] does not exists.
+[2018-10-19 17:47:56 ^1609.12]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=8] does not exists.
+[2018-10-19 17:47:57 ^1610.13]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=8] does not exists.
+[2018-10-19 17:47:57 ^1611.14]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=8] does not exists.
+[2018-10-19 17:47:58 ^1612.15]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=8] does not exists.
+[2018-10-19 17:47:58 ^1605.8]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=8] does not exists.
+[2018-10-19 17:47:58 ^1606.9]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=8] does not exists.
+[2018-10-19 17:48:16 ^1608.11]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=9] does not exists.
+[2018-10-19 17:48:16 ^1609.12]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=9] does not exists.
+[2018-10-19 17:48:16 ^1610.13]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=9] does not exists.
+[2018-10-19 17:48:16 ^1611.14]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=9] does not exists.
+[2018-10-19 17:48:17 ^1612.15]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=9] does not exists.
+[2018-10-19 17:48:17 ^1605.8]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=9] does not exists.
+[2018-10-19 17:48:49 ^1607.10]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=10] does not exists.
+[2018-10-19 17:48:50 ^1608.11]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=10] does not exists.
+[2018-10-19 17:48:50 ^1609.12]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=10] does not exists.
+[2018-10-19 17:51:32 ^6178.9]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=1] does not exists.
+[2018-10-19 17:51:32 ^6179.10]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=1] does not exists.
+[2018-10-19 17:51:32 ^6180.11]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=1] does not exists.
+[2018-10-19 17:51:32 ^6181.12]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=1] does not exists.
+[2018-10-19 17:52:57 ^6336.9]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=1] does not exists.
+[2018-10-19 17:52:57 ^6337.10]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=1] does not exists.
+[2018-10-19 17:52:57 ^6338.11]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=1] does not exists.
+[2018-10-19 17:52:57 ^6339.12]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=1] does not exists.
+[2018-10-23 22:30:47 *17082.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught TypeError: Argument 2 passed to App\WebSocket\Logic\CS::setUserFdList() must be of the type array, string given, called in /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php on line 69 and defined in /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php:23
+Stack trace:
+#0 /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php(69): App\WebSocket\Logic\CS::setUserFdList('111', '[3]')
+#1 /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php(161): App\WebSo
+[2018-10-23 22:30:47 $17070.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-10-23 22:30:53 *17083.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught TypeError: Argument 2 passed to App\WebSocket\Logic\CS::setUserFdList() must be of the type array, string given, called in /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php on line 69 and defined in /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php:23
+Stack trace:
+#0 /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php(69): App\WebSocket\Logic\CS::setUserFdList('222', '[4]')
+#1 /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php(161): App\WebSo
+[2018-10-23 22:30:53 $17070.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2018-10-27 13:09:25 *10022.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught TypeError: Argument 2 passed to App\WebSocket\Logic\CS::setUserFdList() must be of the type array, string given, called in /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php on line 69 and defined in /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php:23
+Stack trace:
+#0 /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php(69): App\WebSocket\Logic\CS::setUserFdList('1', '[1]')
+#1 /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php(161): App\WebSock
+[2018-10-27 13:09:25 $10010.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-10-27 13:09:26 *10060.2]	NOTICE	swFactoryProcess_end (ERROR 1003): The connection[1] is closing.
+[2018-10-27 13:09:27 *10060.2]	NOTICE	swFactoryProcess_end (ERROR 1003): The connection[1] is closing.
+[2018-10-27 13:09:28 *10060.2]	NOTICE	swFactoryProcess_end (ERROR 1003): The connection[1] is closing.
+[2018-10-27 13:09:29 *10060.2]	NOTICE	swFactoryProcess_end (ERROR 1003): The connection[1] is closing.
+[2018-10-27 13:10:40 *10060.2]	NOTICE	swFactoryProcess_end (ERROR 1003): The connection[1] is closing.
+[2018-10-27 13:12:23 *10348.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught TypeError: Argument 2 passed to App\WebSocket\Logic\CS::setUserFdList() must be of the type array, string given, called in /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php on line 69 and defined in /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php:23
+Stack trace:
+#0 /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php(69): App\WebSocket\Logic\CS::setUserFdList('1', '[1,1]')
+#1 /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php(161): App\WebSo
+[2018-10-27 13:12:23 $10332.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-10-27 13:45:24 *14372.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught TypeError: Argument 2 passed to App\WebSocket\Logic\CS::setUserFdList() must be of the type array, string given, called in /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php on line 69 and defined in /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php:23
+Stack trace:
+#0 /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php(69): App\WebSocket\Logic\CS::setUserFdList('1', '[1,1,1,2,1,1,1]')
+#1 /usr/htdocs/linux/newchat/App/WebSocket/Logic/CS.php(161):
+[2018-10-27 13:45:24 $14360.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-10-27 18:06:02 *15690.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-27 18:06:02 *15689.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-27 18:06:02 *15688.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-27 18:06:02 *15687.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-27 18:06:02 *15686.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-27 18:06:02 *15685.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-27 18:06:02 *15684.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-27 18:06:02 *15683.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-27 18:06:02 #15672.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-27 18:06:02 $15673.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-10-28 12:04:40 *958.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: App\HttpController\Admin\Ws cannot implement EasySwoole\Core\Http\AbstractInterface\Controller - it is not an interface in /usr/htdocs/linux/newchat/App/HttpController/Admin/Ws.php on line 12.
+[2018-10-28 12:04:40 $942.0]	WARNING	swManager_check_exit_status: worker#2 abnormal exit, status=255, signal=0
+[2018-10-28 12:07:11 *1269.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 12:07:11 *1268.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 12:07:11 *1267.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 12:07:11 *1266.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 12:07:11 *1265.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 12:07:11 *1264.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 12:07:11 *1263.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 12:07:11 *1262.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 12:07:11 $1252.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-10-28 23:02:56 *32524.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 23:02:56 *32523.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 23:02:56 *32522.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 23:02:56 *32521.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 23:02:56 *32520.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 23:02:56 *32519.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 23:02:56 *32518.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 23:02:56 *32517.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-10-28 23:02:56 $32507.0]	WARNING	swSignal_callback: signal[1] callback is null.

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c2a12f2a-fd1c-4fdd-9e10-ace7a0816e0c" name="swh" url="http://47.107.147.8">
+        <fileTransfer host="47.107.147.8" port="22" rootFolder="/usr/local/tengine/html/newchat" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
